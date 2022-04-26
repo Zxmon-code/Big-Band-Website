@@ -1,2 +1,2 @@
 Das ist die Big band website
-==test==
+by Simon, Levi, Maurice und Niklas
