@@ -1,0 +1,45 @@
+div.navBar {
+  position: -webkit-sticky;
+  position: sticky;
+  top:0;
+  padding-top: 1vh;
+  padding-bottom: .2vh;
+  text-align: right;
+  /*Background*/
+  background-color: #007ec5;
+  margin-bottom: 20px;
+
+}
+div.navBar h1 {
+  color: #FFF;
+  text-align: center;
+}
+div.navBar button.Collapse {
+  margin: .15vw;
+  border-color: #005e99;
+  border-radius:5px;
+  font-size: .5vw;
+  color: #FFF;
+  background-color: #005e99;
+  text-align: right;
+}
+
+
+
+div.infocard {
+  margin: 30px
+  min-width: 50%;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 20px;
+}
+div.infocard button.InfoButton {
+  background-color: #bbf;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
